@@ -1,0 +1,3 @@
+[submodule "navyseal"]
+	path = navyseal
+	url = https://github.gatech.edu/VIP/navyseals.git
